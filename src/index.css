@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://img.freepik.com/foto-gratis/regresar-al-concepto-vista-espacio-copia_23-2148559681.jpg?semt=ais_hybrid&w=740&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+}
+.card-glass {
+  background: rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(10px);
+  border-radius: 15px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+}
+.card-transparent {
+    background-color: rgba(173, 216, 230, 0.8) !important;
+    backdrop-filter: blur(8px);
+    border: 1px solid rgba(135, 206, 235, 0.3);
+
+}
+
+.btn-edit {
+  background-color: #f9d952; /* Morado para editar */
+  color: white;
+}
